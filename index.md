@@ -2,10 +2,10 @@
 layout: default
 ---
 
-**About Us**
+### About Us
 Iddo Software is currently comprised of myself and Ștefan Ghivirigă. We're, basically, a couple of guys in a basement office writing computer vision and deep learning code for startups that need our skills to build their apps.
 
-**What we do**
+### What we do
 As I've stated above, we're (mostly) writing code. Many computer vision and machine learning apps share common functionality, so we strongly incentivize our clients (through substantial discounts to our own hourly rates) to allow us to reuse the code we write for them. This way, we don't write the same stuff over and over again (which leads to boredom and depression), and our clients get their code faster and cheaper.
 
 We also have a network of other machine learning and computer vision engineers which we might be able to get on board if necessary, and other developers that can help us out with things like DevOps, web dev, mobile dev, sys admin and others.
