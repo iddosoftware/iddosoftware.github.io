@@ -26,6 +26,14 @@ We're also used to having to read a lot (research). This way we've been able to 
 
 **Note:** at some point, Bogdan took the time to write everything he could remember having used, in terms of tech, on his personal blog. It's a lengthy (and rather boring) read, but if you want you can access it [here](https://bbudescu.github.io/tech_specs/).
 
+#### How we do what we do
+We work closely with our clients throughout every stage of the process of making their ideas happen:
+- understanding the business goals / processes
+- identifying stages in the pipeline which might benefit from using a CV/ML approach
+- researching the state of the art in the relevant field
+- estimate the relative cost, time to market and expected performance of alternatives we find (or think of)
+- solution design, implementation, testing, deployment and maintenance.
+
 #### What we use
 Over time, we've used several technologies (programming languages, libraries, frameworks etc.) to build the stuff we've built, and, in the process, we've grown more or less accustomed to some of them:
 - Computer Vision: `OpenCV` (from both `Python` and `C++`), `mahotas`, `scikit-image`, `scipy.ndimage`
