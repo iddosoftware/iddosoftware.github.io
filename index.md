@@ -45,7 +45,7 @@ Over time, we've used several technologies (programming languages, libraries, fr
 - GUI: `Qt` for `Python` (`PyQt5`, `PyQt4`, `PySide`)
 
 #### What we have
-We currently have a server with one (rather modest) GPU card (it's a 1060) at our disposal for training and deploying neural nets. However, we'll have another server with some serious compute power (a few Titan RTXs) by christmas (hopefully).
+We currently have a server with one (rather modest) GPU card (it's a 1060) at our disposal for training and deploying neural nets. However, we'll have access to another server with some serious compute power (Titan RTXs) by Christmas 2019 (hopefully).
 
 We also have some code that we wrote for our clients in the past, for which we have kept the right to re-sell to further clients. That code may be used for:
 - training and applying neural nets:
@@ -53,8 +53,8 @@ We also have some code that we wrote for our clients in the past, for which we h
    - keypoint detectors
    - object segmentation
 - deploying TensorFlow nets using Python, C (so not necessarily C++) and Java
-- deploying nets easily and in a scalable fashion using docker
-- develop service endpoints for our deployed nets quickly and easily using OpenAPI
+- deploying nets training and inference services easily and in a scalable fashion using docker
+- generate http endpoints for our deployed inference services quickly and easily using OpenAPI
 - quickly feeding data to the training process of neural nets defined in keras
 - detecting paper documents on flat surfaces
 - green screen removal (keying)
