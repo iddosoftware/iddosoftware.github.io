@@ -52,6 +52,7 @@ We also have some code that we wrote for our clients in the past, for which we h
    - (bounding box) detectors using TensorFlow's Object Detection API
    - keypoint detectors
    - object segmentation
+- deploying TensorFlow nets using Python, C (so not necessarily C++) and Java
 - deploying nets easily and in a scalable fashion using docker
 - develop service endpoints for our deployed nets quickly and easily using OpenAPI
 - quickly feeding data to the training process of neural nets defined in keras
