@@ -45,4 +45,17 @@ Over time, we've used several technologies (programming languages, libraries, fr
 - GUI: `Qt` for `Python` (`PyQt5`, `PyQt4`, `PySide`)
 
 #### What we have
-We own some hardware for training and deploying neural nets and there should be more coming.
+We currently have a server with one (rather modest) GPU card (it's a 1060) at our disposal for training and deploying neural nets. However, we'll have another server with some serious compute power (a few Titan RTXs) by christmas (hopefully).
+
+We also have some code that we wrote for our clients in the past, for which we have kept the right to re-sell to further clients. That code may be used for:
+- training and applying neural nets:
+   - (bounding box) detectors using TensorFlow's Object Detection API
+   - keypoint detectors
+   - object segmentation
+- deploying nets easily and in a scalable fashion using docker
+- develop service endpoints for our deployed nets quickly and easily using OpenAPI
+- quickly feeding data to the training process of neural nets defined in keras
+- detecting paper documents on flat surfaces
+- green screen removal (keying)
+- accurately estimate the position of objects relative to the camera given a few recognized points which respect some constraints known _a priori_
+- other stuff I can't remember now, but probably will, if a problem arises that can be solved using that code
