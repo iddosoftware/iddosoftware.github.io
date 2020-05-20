@@ -3,7 +3,7 @@ layout: default
 ---
 
 #### About Us
-Iddo Software is currently comprised of Bogdan Budescu and Ștefan Ghivirigă. We're, basically, a couple of guys in a basement office writing computer vision and deep learning code for startups that need our skills to build their apps.
+Iddo Software is currently comprised of Bogdan Budescu, Ștefan Ghivirigă and Dorian Stoica. We're, basically, three guys in a basement office writing computer vision and deep learning code for startups that need our skills to build their apps.
 
 #### What we do
 As I've stated above, we're (mostly) writing code. Many computer vision and machine learning apps share common functionality, so we strongly incentivize our clients (through substantial discounts to our own hourly rates) to allow us to reuse the code we write for them. This way, we don't write the same stuff over and over again (which leads to boredom and depression), and our clients get their code faster and cheaper.
@@ -14,7 +14,7 @@ We also have a network of other machine learning and computer vision engineers w
 We want to grow. We have a strong predilection towards stability and, hence, we value long term commitments from our clients. Reciprocally, we offer long term commitments to our clients in return. As such, we usually prefer, e.g., hiring new developers for new clients as opposed to switching devs from one customer to the next. We also like to put our money where our mouth is, so we generally offer a significant discount for long-term contracts with the clients we already have a good history with.
 
 #### What we've done
-As you can see, we don't have a proper portfolio web page yet, since we've been pretty busy doing what we do best for our clients, namely writing computer vision and deep learning code. We're actually working on the portfolio, but it's not ready yet. However, in the mean time, you can get a grip of what we've done until now by taking a look at our LinkedIn profiles. [Here](https://www.linkedin.com/in/bbudescu/) is Bogdan's, and [here](https://www.linkedin.com/in/stefan-ghiviriga-93818913a/) is Ștefan's.
+As you can see, we don't have a proper portfolio web page yet, since we've been pretty busy doing what we do best for our clients, namely writing computer vision and deep learning code. We're actually working on the portfolio, but it's not ready yet. However, in the mean time, you can get a grip of what we've done until now by taking a look at our LinkedIn profiles. [Here](https://www.linkedin.com/in/bbudescu/) is Bogdan's, [here](https://www.linkedin.com/in/stefan-ghiviriga-93818913a/) is Ștefan's, and [here](https://www.linkedin.com/in/dorian-stoica-97716b112) is Dorian's.
 
 #### What we can do
 As you can find out if you browse our profiles, we're experienced with projects involving:
@@ -45,7 +45,8 @@ Over time, we've used several technologies (programming languages, libraries, fr
 - GUI: `Qt` for `Python` (`PyQt5`, `PyQt4`, `PySide`)
 
 #### What we have
-We currently have a server with one (rather modest) GPU card (it's a 1060) at our disposal for training and deploying neural nets. However, we'll have access to another server with some serious compute power (Titan RTXs) by Christmas 2019 (hopefully).
+
+Currently we have a few NVidia GPUs (Titan RTXs, 2080Tis and a 1060) at our disposal for training and deploying neural nets.
 
 We also have some code that we wrote for our clients in the past, for which we have kept the right to re-sell to further clients. That code may be used for:
 - training and applying neural nets:
