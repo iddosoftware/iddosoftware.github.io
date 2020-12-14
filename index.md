@@ -46,7 +46,7 @@ Over time, we've used several technologies (programming languages, libraries, fr
 
 #### What we have
 
-Currently we have a few NVidia GPUs (Titan RTXs, 2080Tis and a 1060) at our disposal for training and deploying neural nets.
+Currently we have a few NVidia GPUs at our disposal for training and deploying neural nets.
 
 We also have some code that we wrote for our clients in the past, for which we have kept the right to re-sell to further clients. That code may be used for:
 - training and applying neural nets:
